@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://pub-f6e8ba1825a0479a8ef365207d28ae7e.r2.dev/GeoScreen64-1.0.0.dmg"><b>⬇&nbsp;&nbsp;Download for Mac</b></a>
+  <a href="https://github.com/akeisoft/GeoScreen64/releases/latest/download/GeoScreen64.dmg"><b>⬇&nbsp;&nbsp;Download for Mac</b></a>
   &nbsp;&nbsp;·&nbsp;&nbsp;
   <a href="https://akeisoft.com">akeisoft.com</a>
 </p>
