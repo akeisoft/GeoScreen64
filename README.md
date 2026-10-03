@@ -67,7 +67,7 @@ Open any map file and watch it come alive on a 3D globe. **GeoScreen64** lets yo
 
 <p align="center">
   <sub>
-    © 2026 <a href="https://akeisoft.com">AKEISOFT</a>. GeoScreen64 is free, closed-source software.<br>
+    © 2026 <a href="https://akeisoft.com">AKEISOFT</a>. GeoScreen64 is free software.<br>
     Not affiliated with Google or Garmin. Google Earth is a trademark of Google LLC;
     Garmin and BaseCamp are trademarks of Garmin Ltd. or its subsidiaries.
   </sub>
